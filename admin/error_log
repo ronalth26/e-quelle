@@ -1,0 +1,334 @@
+[08-Nov-2020 15:40:34 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[08-Nov-2020 15:40:34 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[08-Nov-2020 15:40:34 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[08-Nov-2020 15:40:34 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[08-Nov-2020 15:40:34 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[09-Nov-2020 04:21:00 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[09-Nov-2020 04:21:00 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[09-Nov-2020 04:21:00 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[09-Nov-2020 11:17:11 America/Lima] PHP Notice:  Undefined variable: HTTP_X_FORWARDED_FOR in /home/crystals/equelle.crystalstudio.pe/libs/vi/Admin.php on line 36
+[09-Nov-2020 11:17:11 America/Lima] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/crystals/equelle.crystalstudio.pe/libs/vi/Admin.php on line 37
+[10-Nov-2020 10:22:07 America/Lima] PHP Notice:  Undefined variable: HTTP_X_FORWARDED_FOR in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 9
+[10-Nov-2020 10:22:07 America/Lima] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 10
+[10-Nov-2020 10:22:07 America/Lima] PHP Notice:  Undefined index: str_nombres in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 18
+[10-Nov-2020 12:12:21 America/Lima] PHP Notice:  Undefined variable: HTTP_X_FORWARDED_FOR in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 9
+[10-Nov-2020 12:12:21 America/Lima] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 10
+[10-Nov-2020 12:12:21 America/Lima] PHP Notice:  Undefined index: str_nombres in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 18
+[10-Nov-2020 12:15:55 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:15:55 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:15:55 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:15:55 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:15:55 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:15:59 America/Lima] PHP Notice:  Use of undefined constant NMB_ADMIN - assumed 'NMB_ADMIN' in /home/crystals/equelle.crystalstudio.pe/admin/ihea.php on line 5
+[10-Nov-2020 12:41:13 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:41:13 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:41:13 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:41:13 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:41:13 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:41:17 America/Lima] PHP Notice:  Use of undefined constant NMB_ADMIN - assumed 'NMB_ADMIN' in /home/crystals/equelle.crystalstudio.pe/admin/ihea.php on line 5
+[10-Nov-2020 12:42:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:42:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:42:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:42:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 12:42:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:27:51 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:27:51 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:27:51 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:27:51 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:27:51 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:12 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:12 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:12 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:12 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:29:12 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[10-Nov-2020 14:32:28 America/Lima] PHP Notice:  Undefined property: Logo::$id in /home/crystals/equelle.crystalstudio.pe/libs/vi/Logo.php on line 25
+[10-Nov-2020 14:32:28 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[10-Nov-2020 14:34:34 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[10-Nov-2020 14:34:34 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[10-Nov-2020 14:34:34 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 10:59:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 10:59:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 10:59:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 10:59:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 10:59:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:01:58 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:01:58 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:01:58 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:01:58 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:01:58 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:02 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:17 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:17 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:17 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:17 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:17 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:50 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:50 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:50 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:50 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:03:50 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:20 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:20 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:20 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:20 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:04:20 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:23 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:26 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:26 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:26 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:26 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:26 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:40 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:40 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:40 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:40 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:40 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:53 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:53 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:53 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:53 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:05:53 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:15:29 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:16:12 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:16:39 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:16:39 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:16:39 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:16:39 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:16:39 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[11-Nov-2020 11:16:44 America/Lima] PHP Notice:  Undefined property: Logo::$id in /home/crystals/equelle.crystalstudio.pe/libs/vi/Logo.php on line 25
+[11-Nov-2020 11:16:44 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:16:50 America/Lima] PHP Notice:  Undefined property: Logo::$id in /home/crystals/equelle.crystalstudio.pe/libs/vi/Logo.php on line 25
+[11-Nov-2020 11:16:50 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:17:09 America/Lima] PHP Notice:  Undefined property: Logo::$id in /home/crystals/equelle.crystalstudio.pe/libs/vi/Logo.php on line 25
+[11-Nov-2020 11:17:09 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:20:17 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 36
+[11-Nov-2020 11:45:13 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:45:13 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:45:13 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:51:49 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:51:49 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:51:49 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:53:55 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:53:55 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:53:55 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:55:17 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:55:17 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:55:17 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:55:39 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:55:39 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:55:39 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:56:44 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:56:44 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:56:44 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:57:07 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:57:07 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:57:07 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:58:04 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:58:04 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:58:04 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:58:32 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:58:32 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:58:32 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 11:59:36 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 11:59:36 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 11:59:36 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[11-Nov-2020 12:00:20 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 45
+[11-Nov-2020 12:00:20 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 49
+[11-Nov-2020 12:00:20 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[12-Nov-2020 13:42:04 America/Lima] PHP Notice:  Undefined variable: HTTP_X_FORWARDED_FOR in /home/crystals/equelle.crystalstudio.pe/libs/vi/Admin.php on line 36
+[12-Nov-2020 13:42:04 America/Lima] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/crystals/equelle.crystalstudio.pe/libs/vi/Admin.php on line 37
+[12-Nov-2020 13:42:09 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[12-Nov-2020 13:42:09 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[12-Nov-2020 13:42:09 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[12-Nov-2020 13:42:09 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[12-Nov-2020 13:42:09 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 12:03:49 America/Lima] PHP Notice:  Undefined variable: HTTP_X_FORWARDED_FOR in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 9
+[13-Nov-2020 12:03:49 America/Lima] PHP Notice:  Use of undefined constant REMOTE_ADDR - assumed 'REMOTE_ADDR' in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 10
+[13-Nov-2020 12:03:49 America/Lima] PHP Notice:  Undefined index: str_nombres in /home/crystals/equelle.crystalstudio.pe/libs/fb_xam.php on line 18
+[13-Nov-2020 13:52:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:52:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:52:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:52:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:52:37 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:03 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:53:07 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:38 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:38 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:38 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:38 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:38 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[13-Nov-2020 13:57:42 America/Lima] PHP Notice:  Use of undefined constant NMB_ADMIN - assumed 'NMB_ADMIN' in /home/crystals/equelle.crystalstudio.pe/admin/ihea.php on line 5
+[25-Nov-2020 17:47:37 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 46
+[25-Nov-2020 17:47:37 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[25-Nov-2020 17:47:37 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 51
+[25-Nov-2020 17:47:46 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 46
+[25-Nov-2020 17:47:46 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[25-Nov-2020 17:47:46 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 51
+[25-Nov-2020 17:56:52 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 46
+[25-Nov-2020 17:56:52 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[25-Nov-2020 17:56:52 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 51
+[25-Nov-2020 17:57:06 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 46
+[25-Nov-2020 17:57:06 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[25-Nov-2020 17:57:06 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 51
+[25-Nov-2020 19:29:15 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[25-Nov-2020 19:29:15 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[25-Nov-2020 19:29:15 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[25-Nov-2020 19:29:15 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[25-Nov-2020 19:29:15 America/Lima] PHP Notice:  Undefined property: Banner::$id in /home/crystals/equelle.crystalstudio.pe/admin/banner.php on line 37
+[25-Nov-2020 19:36:37 America/Lima] PHP Notice:  Undefined variable: vUrl in /home/crystals/equelle.crystalstudio.pe/admin/logo-reg.php on line 37
+[25-Nov-2020 19:40:44 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 46
+[25-Nov-2020 19:40:44 America/Lima] PHP Notice:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 50
+[25-Nov-2020 19:40:44 America/Lima] PHP Notice:  Undefined variable: vFoto in /home/crystals/equelle.crystalstudio.pe/admin/servicio-reg.php on line 51
+[26-Nov-2020 23:10:48 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:10:48 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:10:48 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:10:48 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:10:48 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:34 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:34 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:34 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:34 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:34 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:44 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:44 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:44 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:44 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:44 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:52 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:52 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:52 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:52 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[26-Nov-2020 23:11:52 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:28 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:28 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:28 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:28 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:28 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:35 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:35 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:35 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:35 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:35 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:47 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:47 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:47 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:47 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:43:47 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:21 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:21 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:21 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:21 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:21 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[29-Nov-2020 00:44:39 America/New_York] PHP Notice:  Undefined variable: vFoto in /home/equeorhr/public_html/admin/servicio-reg.php on line 46
+[29-Nov-2020 00:44:39 America/New_York] PHP Warning:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' (this will throw an Error in a future version of PHP) in /home/equeorhr/public_html/admin/servicio-reg.php on line 50
+[29-Nov-2020 00:44:39 America/New_York] PHP Notice:  Undefined variable: vFoto in /home/equeorhr/public_html/admin/servicio-reg.php on line 51
+[29-Nov-2020 00:44:49 America/New_York] PHP Notice:  Undefined variable: vFoto in /home/equeorhr/public_html/admin/servicio-reg.php on line 46
+[29-Nov-2020 00:44:49 America/New_York] PHP Warning:  Use of undefined constant BLOG_AL1 - assumed 'BLOG_AL1' (this will throw an Error in a future version of PHP) in /home/equeorhr/public_html/admin/servicio-reg.php on line 50
+[29-Nov-2020 00:44:49 America/New_York] PHP Notice:  Undefined variable: vFoto in /home/equeorhr/public_html/admin/servicio-reg.php on line 51
+[06-Nov-2023 12:46:41 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:46:41 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:46:41 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:46:41 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:46:41 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:43 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:43 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:43 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:43 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:43 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:53 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:53 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:53 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:53 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:53 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:55 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:55 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:55 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:55 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:55 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:56 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:56 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:56 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:56 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[06-Nov-2023 12:55:56 America/New_York] PHP Notice:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[11-Dec-2024 15:36:39 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[11-Dec-2024 15:36:39 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[11-Dec-2024 15:36:39 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[11-Dec-2024 15:36:39 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[11-Dec-2024 15:36:39 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 15:47:20 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 15:47:20 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 15:47:20 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 15:47:20 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 15:47:20 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[13-Dec-2024 18:57:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NMB_ADMIN" in /home/equeorhr/public_html/admin/ihea.php:5
+Stack trace:
+#0 /home/equeorhr/public_html/admin/home.php(2): include()
+#1 {main}
+  thrown in /home/equeorhr/public_html/admin/ihea.php on line 5
+[17-Mar-2025 17:52:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NMB_ADMIN" in /home/equeorhr/public_html/admin/ihea.php:5
+Stack trace:
+#0 /home/equeorhr/public_html/admin/home.php(2): include()
+#1 {main}
+  thrown in /home/equeorhr/public_html/admin/ihea.php on line 5
+[17-Mar-2025 17:52:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NMB_ADMIN" in /home/equeorhr/public_html/admin/ihea.php:5
+Stack trace:
+#0 /home/equeorhr/public_html/admin/home.php(2): include()
+#1 {main}
+  thrown in /home/equeorhr/public_html/admin/ihea.php on line 5
+[17-Mar-2025 17:52:28 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[17-Mar-2025 17:52:28 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[17-Mar-2025 17:52:28 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[17-Mar-2025 17:52:28 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[17-Mar-2025 17:52:28 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[04-Oct-2025 04:30:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NMB_ADMIN" in /home/equeorhr/public_html/admin/ihea.php:5
+Stack trace:
+#0 /home/equeorhr/public_html/admin/home.php(2): include()
+#1 {main}
+  thrown in /home/equeorhr/public_html/admin/ihea.php on line 5
+[14-Nov-2025 12:47:40 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[14-Nov-2025 12:47:40 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[14-Nov-2025 12:47:40 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[14-Nov-2025 12:47:40 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[14-Nov-2025 12:47:40 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[25-Jan-2026 01:13:33 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[25-Jan-2026 01:13:33 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[25-Jan-2026 01:13:33 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[25-Jan-2026 01:13:33 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[25-Jan-2026 01:13:33 UTC] PHP Warning:  Undefined property: Banner::$id in /home/equeorhr/public_html/admin/banner.php on line 37
+[23-Jul-2026 21:05:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "NMB_ADMIN" in /home/equeorhr/public_html/admin/ihea.php:5
+Stack trace:
+#0 /home/equeorhr/public_html/admin/home.php(2): include()
+#1 {main}
+  thrown in /home/equeorhr/public_html/admin/ihea.php on line 5
+[11-Aug-2026 19:09:00 UTC] PHP Warning:  Undefined array key "txt_uss" in /home/equeorhr/public_html/libs/vi/Admin.php on line 92
