@@ -9252,3 +9252,100 @@ Stack trace:
 [16-Sep-2026 06:16:38 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
 [16-Sep-2026 06:16:38 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
 [16-Sep-2026 06:16:38 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24
+[17-Sep-2026 21:13:31 UTC] PHP Warning:  Undefined array key 3 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[17-Sep-2026 21:13:31 UTC] PHP Warning:  Undefined array key 2 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[17-Sep-2026 21:13:31 UTC] PHP Warning:  Undefined array key 1 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[18-Sep-2026 23:45:44 UTC] PHP Warning:  Undefined array key 3 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[18-Sep-2026 23:45:44 UTC] PHP Warning:  Undefined array key 2 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[18-Sep-2026 23:45:44 UTC] PHP Warning:  Undefined array key 1 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[20-Sep-2026 05:50:07 UTC] PHP Warning:  Undefined array key 3 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[20-Sep-2026 05:50:07 UTC] PHP Warning:  Undefined array key 2 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[20-Sep-2026 05:50:07 UTC] PHP Warning:  Undefined array key 1 in /home/equeorhr/public_html/libs/fn/fn.php on line 98
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[25-Sep-2026 15:44:40 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[29-Sep-2026 05:26:59 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
+[29-Sep-2026 05:26:59 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
+[29-Sep-2026 05:26:59 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24
+[01-Oct-2026 07:10:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home/equeorhr/public_html/libs/md/da.php:16
+Stack trace:
+#0 /home/equeorhr/public_html/libs/md/da.php(16): mysqli_connect()
+#1 /home/equeorhr/public_html/libs/md/qr.php(9): ConexionDB->__construct()
+#2 /home/equeorhr/public_html/libs/cl/Banner.php(49): Consulta->__construct()
+#3 /home/equeorhr/public_html/libs/fb_xwb.php(30): Banner->listar()
+#4 /home/equeorhr/public_html/noticia-detalle.php(4): include('/home/equeorhr/...')
+#5 {main}
+  thrown in /home/equeorhr/public_html/libs/md/da.php on line 16
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[01-Oct-2026 11:29:28 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[02-Oct-2026 05:45:28 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[02-Oct-2026 05:45:28 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[02-Oct-2026 13:30:20 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[02-Oct-2026 13:30:20 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[07-Oct-2026 08:05:41 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[08-Oct-2026 16:47:51 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
+[08-Oct-2026 16:47:51 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
+[08-Oct-2026 16:47:51 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24
+[09-Oct-2026 00:55:45 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 188
+[09-Oct-2026 00:55:45 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 189
+[09-Oct-2026 00:55:45 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 190
+[09-Oct-2026 00:55:45 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 191
+[09-Oct-2026 00:55:45 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 192
+[09-Oct-2026 16:32:25 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 188
+[09-Oct-2026 16:32:25 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 189
+[09-Oct-2026 16:32:25 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 190
+[09-Oct-2026 16:32:25 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 191
+[09-Oct-2026 16:32:25 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 192
+[13-Oct-2026 12:16:30 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
+[13-Oct-2026 12:16:30 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
+[13-Oct-2026 12:16:30 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[15-Oct-2026 20:47:22 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[17-Oct-2026 23:52:37 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[23-Oct-2026 01:59:48 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[23-Oct-2026 02:26:31 UTC] PHP Warning:  Undefined variable $vNombres in /home/equeorhr/public_html/libs/vi/WFormulario.php on line 30
+[23-Oct-2026 14:16:05 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 188
+[23-Oct-2026 14:16:05 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 189
+[23-Oct-2026 14:16:05 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 190
+[23-Oct-2026 14:16:05 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 191
+[23-Oct-2026 14:16:05 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_menu.php on line 192
+[24-Oct-2026 01:19:20 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
+[24-Oct-2026 01:19:20 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
+[24-Oct-2026 01:19:20 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 102
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 173
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 179
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 188
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_pie.php on line 191
+[25-Oct-2026 11:30:46 UTC] PHP Warning:  Undefined variable $vVistaServicio in /home/equeorhr/public_html/_pie.php on line 223
+[25-Oct-2026 15:04:16 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[25-Oct-2026 15:04:16 UTC] PHP Warning:  Undefined variable $vStrBanner in /home/equeorhr/public_html/_banner.php on line 8
+[28-Oct-2026 04:56:10 UTC] PHP Warning:  Undefined variable $vSeoTag in /home/equeorhr/public_html/_cabecera.php on line 4
+[28-Oct-2026 04:56:10 UTC] PHP Warning:  Undefined variable $vIntIdSeccion in /home/equeorhr/public_html/_cabecera.php on line 14
+[28-Oct-2026 04:56:10 UTC] PHP Warning:  Undefined variable $vSocialUrl in /home/equeorhr/public_html/_cabecera.php on line 24

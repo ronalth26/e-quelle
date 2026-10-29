@@ -954,3 +954,55 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29
+[21-Sep-2026 16:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[24-Sep-2026 01:39:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[24-Sep-2026 01:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Banner" not found in /home/equeorhr/public_html/libs/fb_xwb.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29
+[25-Sep-2026 10:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[28-Sep-2026 01:54:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[28-Sep-2026 15:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "Banner" not found in /home/equeorhr/public_html/libs/fb_xwb.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29
+[07-Oct-2026 22:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[07-Oct-2026 22:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "Banner" not found in /home/equeorhr/public_html/libs/fb_xwb.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29
+[12-Oct-2026 15:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[14-Oct-2026 13:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[23-Oct-2026 01:02:35 UTC] PHP Fatal error:  Uncaught Error: Class "Banner" not found in /home/equeorhr/public_html/libs/fb_xwb.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29
+[26-Oct-2026 07:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function linkearURL() in /home/equeorhr/public_html/libs/fb_xam.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xam.php on line 27
+[29-Oct-2026 04:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Banner" not found in /home/equeorhr/public_html/libs/fb_xwb.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/equeorhr/public_html/libs/fb_xwb.php on line 29

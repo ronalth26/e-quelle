@@ -129,14 +129,15 @@
 					</li>
 					<li>
 						<div>AUDITOR IRCA</div>
-						Contamos en nuestro equipo 1 de los 3 Auditores Principales inscritos en IRCA.
+						Contamos con auditores lideres registrados en IRCA (International Register of Certificated Auditors)
 						<p>
 							TENEMOS UN EQUIPO ALTAMENTE CALIFICADO.
 						</p>
 					</li>
 					<li>
 						<div>2017</div>
-						Nos internacionalizamos creando soluciones a otros países.
+						Damos un salto internacional para soluciones en otros mercados.<br>
+						Abrimos oficina en Monterrey - México
 						<p>
 							NOS DESARROLLAMOS EN EL MERCADO MEXICANO.
 						</p>
