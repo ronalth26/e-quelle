@@ -45,6 +45,7 @@ $(function() {
         	<li class="principal"><a href="servicio.php" <?php if($vMenu=="6") echo 'class="pr"';?> title="Servicios">Servicios</a></li>
         	<li class="principal"><a href="cliente.php" <?php if($vMenu=="5") echo 'class="pr"';?> title="Clientes">Clientes</a></li>
         	<li class="principal"><a href="noticia.php" <?php if($vMenu=="4") echo 'class="pr"';?> title="Noticias">Noticias</a></li>
+        	<li><a href="noticias-sugeridas.php" <?php if($vMenu=="44") echo 'class="pr"';?> class="sub" title="Sugeridas IA">✨ Sugeridas IA</a></li>
         	<li class="principal"><a href="admin.php" <?php if($vMenu=="11") echo 'class="pr"';?> title="Administrador">Administrador</a></li>
         	<li class="principal"><a href="logout.php" title="Cerrar Sesión">Cerrar Sesión</a></li>
         </ul>
